@@ -1,2 +1,2 @@
 # Web-Dev
-This is a Full Stack Web development course.
+This is a Full Stack & Web development course.
